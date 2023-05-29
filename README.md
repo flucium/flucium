@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flucium&layout=compact)](https://github.com/flucium) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flucium&repo=ock&theme=github_dark)](https://github.com/flucium/ock)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flucium&show_icons=true&theme=github_dark)](https://github.com/flucium)
+
 
 <!--
 **flucium/flucium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
