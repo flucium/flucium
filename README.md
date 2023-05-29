@@ -1,12 +1,13 @@
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flucium&layout=compact)](https://github.com/flucium) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flucium&theme=github_dark)](https://github.com/flucium)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flucium&show_icons=true&theme=github_dark)
 
-## My Sponsors
-<!-- [Kemo0513](https://github.com/Kemo0513) -->
+<br>
 
-<!-- [sponsors/flucium](https://github.com/sponsors/flucium) -->
+## My Sponsors
+- [Kemo0513](https://github.com/Kemo0513)
+
+*[sponsors/flucium](https://github.com/sponsors/flucium)*
 
 <!--
 **flucium/flucium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
