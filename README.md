@@ -1,9 +1,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flucium&layout=compact)](https://github.com/flucium) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flucium&repo=ock&theme=github_dark)](https://github.com/flucium/ock)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flucium&repo=ock&theme=github_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flucium&show_icons=true&theme=github_dark)](https://github.com/flucium)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flucium&show_icons=true&theme=github_dark)
+
 
 
 <!--
