@@ -1,7 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flucium&theme=github_dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flucium&show_icons=true&theme=github_dark)
-
 <br>
 
 ## My Sponsors
