@@ -1,11 +1,4 @@
 
-<br>
-
-## My Sponsors
-- [Kemo0513](https://github.com/Kemo0513)
-
-*[sponsors/flucium](https://github.com/sponsors/flucium)*
-
 <!--
 **flucium/flucium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
